@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Microsoft Page clone
 
@@ -13,7 +13,7 @@ This Clone was made using  Tailwind css.
 
 ## View
 
-![header image](https://raw.github.com/Rohitpanti/git@github.com:Rohitpanti/Microsoft-webpage-Clone.git/master/View.png)
+![header image](https://raw.github.com/Rohitpanti/Microsoft-webpage-Clone.git/master/View.png)
 ## Run Locally
 
 Download The Zip File  or  Clone the project
@@ -35,7 +35,3 @@ Start the server
 ```bash
   npm run start
 ```
-=======
-# Microsoft-webpage-Clone
-This project is made  using Tailwind css.
->>>>>>> 41bc5761073a7e4d596d7ca013715b586b33e116
