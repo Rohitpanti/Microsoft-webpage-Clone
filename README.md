@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Microsoft Page clone
 
@@ -34,3 +35,7 @@ Start the server
 ```bash
   npm run start
 ```
+=======
+# Microsoft-webpage-Clone
+This project is made  using Tailwind css.
+>>>>>>> 41bc5761073a7e4d596d7ca013715b586b33e116
