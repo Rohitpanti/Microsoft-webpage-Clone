@@ -13,7 +13,7 @@ This Clone was made using  Tailwind css.
 
 ## View
 
-![header image](https://raw.github.com/Rohitpanti/Microsoft-webpage-Clone.git/master/View.png)
+![header image](https://raw.github.com/Rohitpanti/Microsoft-webpage-Clone/master/View.png)
 ## Run Locally
 
 Download The Zip File  or  Clone the project
